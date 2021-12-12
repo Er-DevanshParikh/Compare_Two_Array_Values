@@ -1,3 +1,4 @@
+# Create an empty dictionary..
 array1 = {}
 array2 = {}
 n = int(input("Number of elements :"))
